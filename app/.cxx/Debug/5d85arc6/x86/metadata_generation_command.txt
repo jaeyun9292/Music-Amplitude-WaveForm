@@ -1,0 +1,20 @@
+                    -HC:\Users\user\AndroidStudioProjects\Amplituda\app\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=C:\Users\user\AppData\Local\Android\Sdk\ndk\21.1.6352462
+-DCMAKE_ANDROID_NDK=C:\Users\user\AppData\Local\Android\Sdk\ndk\21.1.6352462
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\user\AppData\Local\Android\Sdk\ndk\21.1.6352462\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\user\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_C_FLAGS=-fexceptions -frtti -fvisibility=hidden -ffunction-sections -fdata-sections -Wl,--gc-sections
+-DCMAKE_CXX_FLAGS=-fexceptions -frtti -fvisibility=hidden -ffunction-sections -fdata-sections -Wl,--gc-sections
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\user\AndroidStudioProjects\Amplituda\app\build\intermediates\cxx\Debug\5d85arc6\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\user\AndroidStudioProjects\Amplituda\app\build\intermediates\cxx\Debug\5d85arc6\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\Users\user\AndroidStudioProjects\Amplituda\app\.cxx\Debug\5d85arc6\x86
+-GNinja
+                    Build command args: []
+                    Version: 2

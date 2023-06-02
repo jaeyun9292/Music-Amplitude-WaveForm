@@ -1,0 +1,25 @@
+{
+  "buildFiles": [
+    "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "amplituda-native-lib-Debug-arm64-v8a": {
+      "artifactName": "amplituda-native-lib",
+      "buildCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\.cxx\\cmake\\debug\\arm64-v8a\" amplituda-native-lib",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libamplituda-native-lib.so",
+      "runtimeFiles": [
+        "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\ffmpeg\\arm64-v8a\\lib\\libavutil-amplituda.so",
+        "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\ffmpeg\\arm64-v8a\\lib\\libavformat-amplituda.so",
+        "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\ffmpeg\\arm64-v8a\\lib\\libavcodec-amplituda.so",
+        "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\ffmpeg\\arm64-v8a\\lib\\libswresample-amplituda.so"
+      ]
+    }
+  }
+}

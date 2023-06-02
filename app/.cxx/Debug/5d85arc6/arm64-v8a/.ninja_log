@@ -1,0 +1,6 @@
+# ninja log v5
+0	1323	707211640	CMakeFiles/amplituda-native-lib.dir/amplituda-native-lib.cpp.o	c0bf1f27b63e6704
+1324	1460	707211641	C:/Users/user/AndroidStudioProjects/Amplituda/app/build/intermediates/cxx/Debug/5d85arc6/obj/arm64-v8a/libamplituda-native-lib.so	7664a9078c43ea15
+0	9	0	clean	4a0ad9cce977d139
+3	395	707213169	CMakeFiles/amplituda-native-lib.dir/amplituda-native-lib.cpp.o	c0bf1f27b63e6704
+395	491	707213169	C:/Users/user/AndroidStudioProjects/Amplituda/app/build/intermediates/cxx/Debug/5d85arc6/obj/arm64-v8a/libamplituda-native-lib.so	7664a9078c43ea15

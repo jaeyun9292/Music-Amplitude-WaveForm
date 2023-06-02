@@ -1,0 +1,3 @@
+C:/Users/user/AndroidStudioProjects/Amplituda/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/user/AndroidStudioProjects/Amplituda/app/.cxx/cmake/debug/x86/CMakeFiles/amplituda-native-lib.dir
+C:/Users/user/AndroidStudioProjects/Amplituda/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

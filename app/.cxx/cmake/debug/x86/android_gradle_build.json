@@ -1,0 +1,48 @@
+{
+  "stringTable": {
+    "0": "C:/Users/user/AndroidStudioProjects/Amplituda/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Damplituda_native_lib_EXPORTS -IC:/Users/user/AndroidStudioProjects/Amplituda/app/src/main/cpp/ffmpeg/x86/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -fvisibility=hidden -ffunction-sections -fdata-sections -Wl,--gc-sections -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "amplituda-native-lib-Debug-x86": {
+      "buildCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\.cxx\\cmake\\debug\\x86\" amplituda-native-lib",
+      "buildType": "debug",
+      "toolchain": "2566272831",
+      "abi": "x86",
+      "artifactName": "amplituda-native-lib",
+      "files": [
+        {
+          "src": "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\amplituda-native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libamplituda-native-lib.so",
+      "runtimeFiles": [
+        "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\ffmpeg\\x86\\lib\\libavutil-amplituda.so",
+        "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\ffmpeg\\x86\\lib\\libavformat-amplituda.so",
+        "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\ffmpeg\\x86\\lib\\libavcodec-amplituda.so",
+        "C:\\Users\\user\\AndroidStudioProjects\\Amplituda\\app\\src\\main\\cpp\\ffmpeg\\x86\\lib\\libswresample-amplituda.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "2566272831": {
+      "cppCompilerExecutable": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
